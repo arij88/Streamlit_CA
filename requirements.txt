@@ -1,8 +1,8 @@
+streamlit
+matplotlib
 pandas
 numpy
-matplotlib
-statsmodels
-prophet
 scikit-learn
-tensorflow
-streamlit
+statsmodels
+prophet==1.1.5
+tensorflow==2.12.0
