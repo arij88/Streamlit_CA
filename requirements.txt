@@ -4,5 +4,5 @@ numpy
 matplotlib
 scikit-learn
 statsmodels
-prophet
-tensorflow
+prophet==1.1.5
+
